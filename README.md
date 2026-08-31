@@ -130,4 +130,8 @@ Some key observations from the analysis include:
 - **Data Analysis**
 
 ---
+## 🖥️ Dashboard Preview
+
+<img width="1291" height="732" alt="Screenshot 2026-08-31 200553" src="https://github.com/user-attachments/assets/d3657eb9-6f4e-468a-8261-31872613d5f9" />
+
 
